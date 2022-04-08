@@ -7,7 +7,7 @@
 开发者抽水0.3%,纯转发不抽水，目前运行最稳定的软件之一
 ```
 交流电报群https://t.me/trexminerproxy
-
+每次改完内容就需要关闭程序再打开才能生效！
 
 # windows版本下载:
 [点击下载 ](https://github.com/ethminerpro/MinerProxyvip/raw/main/MinerProxy%20Win.exe) 。
