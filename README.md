@@ -13,7 +13,9 @@ https://au.alibabacloud.com
 loc vps：
 https://www.locvps.com/
 
-开启ssl链接地址为stratum+ssl://ip:端口，关闭SSL功能：tcp地址为stratum+tcp://ip:端口 ,开启运行就可以链接矿机了
+开启ssl链接地址为stratum+ssl://ip:端口，
+关闭SSL功能：tcp地址为stratum+tcp://ip:端口
+开启运行就可以链接矿机了
 
 
 
