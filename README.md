@@ -1,6 +1,5 @@
 
 ## 重要说明
-![222](222.png)
 ```bigquery
 自带tls证书
 可以自定义证书,在同级目录下放入cert.pem和key.pem文件即可
