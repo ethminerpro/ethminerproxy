@@ -8,6 +8,10 @@
 ```
 交流电报群https://t.me/trexminerproxy
 
+
+# windows版本下载:
+[点击下载 ](https://github.com/ethminerpro/MinerProxyvip/raw/main/ethminerproxy_windows.exe) 。
+
 ![222](222.png)
 
 国外香港云服务器推荐，小厂商服务器不稳定谨慎使用
