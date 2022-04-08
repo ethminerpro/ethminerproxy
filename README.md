@@ -6,7 +6,7 @@
 软件支持多开端口，双击桌面图标配置即可，开关机自启动无需再次配置。
 开发者抽水0.3%,纯转发不抽水，目前运行最稳定的软件之一
 
-![222.png](222.png)
+![222](https://user-images.githubusercontent.com/97815657/150623817-f3d6ef1c-cf56-4543-8f68-a92c194497e5.png)
 
 交流电报群https://t.me/trexminerproxy
 
