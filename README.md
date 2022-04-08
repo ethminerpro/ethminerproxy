@@ -10,7 +10,7 @@
 
 
 # windows版本下载:
-[点击下载 ](https://github.com/ethminerpro/MinerProxyvip/raw/main/ethminerproxy_windows.exe) 。
+[点击下载 ](https://github.com/ethminerpro/MinerProxyvip/raw/main/ MinerProxy_Win.exe) 。
 
 ![222](222.png)
 
