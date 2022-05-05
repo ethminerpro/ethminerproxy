@@ -38,9 +38,6 @@ bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/MinerProxy/main
 ```
 
 
-![5.png](5.png)
-
-
 ## 重要说明
 ```bigquery
 建议不要使用国内厂商的服务器，尽量选用国外运营商的服务器，
@@ -48,8 +45,6 @@ bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/MinerProxy/main
 开发者抽水恒定0.3%！！目前运行最稳定的软件；欢迎实测！
 不建议抽太多，做到可持续发展，托管时请一定告知客户存在托管费
 
-
-4核心4G内存的搬瓦工，带机6000台，测试4天，机器稳定不掉线
 ```
 
 # 如果你算力不准：
