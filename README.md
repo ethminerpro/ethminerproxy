@@ -1,4 +1,5 @@
-# minerProxy
+#  GoMinerTool
+
 已內置加密證書，可以自定義ssl證書，在程序目錄下放入server.key和server.pem文件即可；
 
 交流電報群https://t.me/trexminerproxy
