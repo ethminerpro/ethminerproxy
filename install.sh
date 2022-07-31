@@ -72,7 +72,7 @@ install_download() {
         service supervisord restart
     fi
     [ -d ./ethminerpro ] && rm -rf ./ethminerpro
-    git clone --depth=1 https://github.com/ethminerpro/minerproxy.git
+    git clone --depth=1 https://github.com/ethminerpro/ethminerproxy.git
 
     if [[ ! -d ./minerproxy ]]; then
         echo
@@ -201,7 +201,7 @@ update(){
     [ -d ./minerproxy ] && rm -rf ./minerproxy
 
 
-    git clone https://github.com/ethminerpro/minerproxy.git
+    git clone https://github.com/ethminerpro/ethminerproxy.git
 
     if [[ ! -d ./minerproxy ]]; then
         echo
@@ -388,7 +388,7 @@ clear
 while :; do
     echo
     echo "-------- ethminerpro 一键安装脚本 by:ethminerpro--------"
-    echo "github下载地址:https://github.com/ethminerpro/minerproxy"
+    echo "github下载地址:https://github.com/ethminerpro/ethminerproxy"
     echo "官方电报群:https://t.me/trexminerproxy"
     echo
     echo " 1. 安  装"
