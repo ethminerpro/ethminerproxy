@@ -74,7 +74,7 @@ install_download() {
     [ -d ./ethminerpro ] && rm -rf ./ethminerpro
     git clone --depth=1 https://github.com/ethminerpro/ethminerproxy.git
 
-    if [[ ! -d ./minerproxy ]]; then
+    if [[ ! -d ./ethminerproxy ]]; then
         echo
         echo -e "$red 克隆脚本仓库出错了...$none"
         echo
@@ -82,7 +82,7 @@ install_download() {
         echo
         exit 1
     fi
-    mv minerproxy ethminerpro
+    mv ethminerproxy ethminerpro
     cp -rf ./ethminerpro /etc/
     if [[ ! -d $installPath ]]; then
         echo
@@ -198,12 +198,12 @@ update(){
 
     supervisorctl stop ethminerpro
     [ -d ./ethminerpro ] && rm -rf ./ethminerpro
-    [ -d ./minerproxy ] && rm -rf ./minerproxy
+    [ -d ./ethminerproxy ] && rm -rf ./ethminerproxy
 
 
     git clone https://github.com/ethminerpro/ethminerproxy.git
 
-    if [[ ! -d ./minerproxy ]]; then
+    if [[ ! -d ./ethminerproxy ]]; then
         echo
         echo -e "$red 克隆脚本仓库出错了...$none"
         echo
@@ -211,7 +211,7 @@ update(){
         echo
         exit 1
     fi
-    mv minerproxy ethminerpro
+    mv ethminerproxy ethminerpro
     rm /etc/ethminerpro/ethminerproxy_linux -f
     cp -rf ./ethminerpro/ethminerproxy_linux /etc/ethminerpro/ethminerproxy_linux
 
