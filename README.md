@@ -39,7 +39,7 @@
 
 # 新增linux一件腳本安裝
 ```
-bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/MinerProxy/main/install.sh )
+bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/install.sh )
 ```
 
 
