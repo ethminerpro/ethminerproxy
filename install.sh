@@ -221,7 +221,7 @@ update(){
 
 
     sleep 2s
-    echo "ethminerpro 已經更新至V1.0.0版本並啟動"
+    echo "ethminerpro 已經更新至V5.1.0版本並啟動"
     cat /etc/ethminerpro/conf.yaml
     echo ""
     echo "以上是配置文件信息"
