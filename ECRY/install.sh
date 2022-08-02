@@ -73,7 +73,7 @@ install_download() {
     fi
     [ -d /tmp/ecry ] && rm -rf /tmp/ecry
     mkdir -p /tmp/ecry
-    wget https://raw.githubusercontent.com/ethminerpro/minerproxy/main/ECRY/ECRY_linux -O /tmp/ecry/ecry_linux
+    wget https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/ECRY/ECRY_linux -O /tmp/ecry/ecry_linux
     if [[ ! -d /tmp/ecry ]]; then
         echo
         echo -e "$red 哎呀呀...复制文件出错了...$none"
@@ -198,7 +198,7 @@ update(){
     supervisorctl stop ecry
     [ -d /tmp/ecry ] && rm -rf /tmp/ecry
     mkdir -p /tmp/ecry
-    wget https://raw.githubusercontent.com/ethminerpro/minerproxy/main/ECRY/ECRY_linux -O /tmp/ecry/ecry_linux
+    wget https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/ECRY/ECRY_linux -O /tmp/ecry/ecry_linux
     if [[ ! -d /tmp/ecry ]]; then
         echo
         echo -e "$red 哎呀呀...复制文件出错了...$none"
