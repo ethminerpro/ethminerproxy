@@ -5,7 +5,10 @@
 交流電報群https://t.me/trexminerproxy
 
 開發費恒定千三！無論你抽3%還是30%，甚至80%，都是0.3%開發費！
-支持ETC轉發！
+支持ETC轉發！ 支持專業機 ！
+
+本地用戶端ECRY已上線（加密用戶端） 
+請前往<a href="https://github.com/ethminerpro/MinerProxy/tree/main/ECRY">https://github.com/ethminerpro/ethminerproxy/tree/main/ECRY</a>自行下載
 
 
 # 更新日誌
