@@ -11,12 +11,12 @@ minerproxy版本>=5.0.1
 
 # Linux-一键安装脚本:
 ```bash
-bash <(curl -s -L https://raw.githubusercontent.com/ethminerpro/MinerProxy/main/ECRY/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/ECRY/install.sh)
 ```
 
 # 下载:
-[windows版本下载 ](https://raw.githubusercontent.com/ethminerpro/MinerProxy/main/ECRY/ECRY_windows.exe) 。
-[Linux版本下载 ](https://raw.githubusercontent.com/ethminerpro/MinerProxy/main/ECRY/ECRY_linux) 。
+[windows版本下载 ](https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/ECRY/ECRY_windows.exe) 。
+[Linux版本下载 ](https://raw.githubusercontent.com/ethminerpro/ethminerproxy/main/ECRY/ECRY_linux) 。
 
 # 更新日志
 ```bigquery
